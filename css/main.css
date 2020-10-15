@@ -8,17 +8,19 @@ body {
 
 #primary-links{
     height:34px;
-    line-height:34px;
+
     font-size: 20px;
-    padding: 13px;
+
     padding-bottom: 55px;
 
 }
 li{
     display:inline;
+    border-right: 1px solid;
 }
 #primary-links li{
     display:inline;
+    border-right: 1px solid;
 
 }
 

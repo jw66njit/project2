@@ -45,3 +45,82 @@ li{
     font-size: 16px;
     line-height: 27px;
 }
+#sidebar{
+    max-width: 276px;
+    padding-left: 6px;
+    padding-right: 6px
+    padding-top: 21px;
+    float: left;
+    font-size: 11px;
+    line-height: 18px;
+}
+}
+
+#sidebar h1{
+    font-size: 23px;
+    line-height: 35px;
+    margin-bottom: 18px;
+    float:left;
+
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 25px;
+}
+#content h1 {
+    font-size: 33px;
+    line-height: 51px;
+    margin-bottom: 27px;
+    color: darkgoldenrod;
+}
+
+#footer{
+    clear:both;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 57px;
+    margin-top: 60px;
+    margin-bottom: 23px;
+    font-weight:bold;
+    text-decoration:goldenrod underline;
+    text-decoration-style:solid;
+
+}
+h3 {
+    font-size: 17px;
+    line-height: 46px;
+    margin-top: 37px;
+    margin-bottom: 14px;
+
+}
+h4 {
+    font-size: 22px;
+    line-height: 37px;
+    font-weight: bold;
+    margin-bottom: 9px;
+}
+.card{
+    border:1px goldenrod;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    float:left;
+}
+
+.tab, h3{
+    margin-left: 40px;
+}
+#footer {
+    clear: both;
+    text-align: center;
+    padding-inline-start: 15px;
+}
